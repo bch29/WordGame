@@ -1,4 +1,4 @@
-package uk.ac.cam.cl.dtg.sac92.oop.word_game;
+package uk.ac.cam.bch29.wordgame;
 
 public class TestApp {
 
